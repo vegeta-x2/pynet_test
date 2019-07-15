@@ -1,1 +1,3 @@
 print("helloz")
+
+a = apple
